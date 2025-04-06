@@ -1,2 +1,2 @@
 # first-project-
-real time voic translator 
+real time voice translator 
